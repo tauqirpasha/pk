@@ -20,8 +20,7 @@ export default function Footer() {
         */}
         prakash kusle | +91 8186886808 | prakashkusle@gmail.com
         </Text>
-        <Link to="/Path" > Résumé. </Link> 
-  
+        <a href={"https://drive.google.com/file/d/1y1hRYFmDFbiYRRShYSI221Qiq8uUiCAq/view?usp=sharing"}>Résumé</a>
 
       <Text fontSize="sm" mt={2} onClick={scroll.scrollToTop}>
         <span role="img" aria-label="rocket">
