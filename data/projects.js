@@ -30,7 +30,7 @@ const projects = [
   {
     name: "Residential 4bhk",
     description:
-      "A 5 bhk residential property located in Sindhi colony,Hyderabad.The total built-up area of the property is 3500sqft.",
+      "A 4 bhk residential property located in Sindhi colony,Hyderabad.The total built-up area of the property is 3500sqft.",
     pic: "/postureai.jpg",
 tech: ["Autocad", "Sketchup", "V-ray","and","Photoshop"],
     links: [
