@@ -58,7 +58,7 @@ tech: ["Autocad", "Sketchup", "V-ray","and","Photoshop"],
   {
     name: "Library",
     description:
-      "A 2 floor designed for architectural library.The total built-up area of the property is 8600sqft.",
+      "A 2 floor library designed for architectural library.The total built-up area of the property is 8600sqft.",
     pic: "/lib.jpg",
 tech: ["Autocad", "Sketchup", "V-ray","and","Photoshop"],
     links: [
